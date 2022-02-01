@@ -1,0 +1,22 @@
+"{\
+	'general':\
+	{\
+		'name':'Device',\
+		'instance':1,\
+		'interval':5000\
+	},\
+	'components':[\
+		{\
+			'name':'Analog',\
+			'params':'default'\
+		},\
+		{\
+			'name':'SD',\
+			'params':[true,1000,11,'data',true]\
+		},\
+		{\
+			'name':'DS3234',\
+			'params':'default'\
+		}\
+	]\
+}"

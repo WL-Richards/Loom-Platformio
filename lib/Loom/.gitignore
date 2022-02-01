@@ -1,0 +1,6 @@
+# Ignore Doxygen documentation
+html/
+latex/
+LoomTests
+.vscode
+*.DS_Store

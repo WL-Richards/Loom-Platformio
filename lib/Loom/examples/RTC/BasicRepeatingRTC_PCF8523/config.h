@@ -1,0 +1,21 @@
+"{\
+	'general':\
+	{\
+		'name':'Device',\
+		'instance':1\
+	},\
+	'components':[\
+		{\
+			'name':'PCF8523',\
+			'params':[11,true,false]\
+		},\
+		{\
+			'name':'InterruptManager',\
+			'params':'default'\
+		},\
+		{\
+			'name':'Analog',\
+			'params':'default'\
+		}\
+	]\
+}"

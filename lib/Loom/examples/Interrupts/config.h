@@ -1,0 +1,19 @@
+"{\
+	'general':\
+	{\
+		'name':'Device',\
+		'instance':1,\
+		'interval':5000,\
+		'print_verbosity':2\
+	},\
+	'components':[\
+		{\
+			'name':'InterruptManager',\
+			'params':[0]\
+		},\
+		{\
+			'name':'SleepManager',\
+			'params':[true,false,1]\
+		}\
+	]\
+}"

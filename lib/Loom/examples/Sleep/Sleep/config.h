@@ -1,0 +1,24 @@
+"{\
+  'general':\
+    {\
+      'device_name':'Device',\
+      'family':'Loom',\
+      'instance_num':1,\
+      'family_num':0\
+    },\
+  'components':\
+  [\
+    {\
+      'name':'DS3231',\
+      'params':[11,true,false]\
+    },\
+    {\
+      'name':'InterruptManager',\
+      'params':[0]\
+    },\
+    {\
+      'name':'SleepManager',\
+      'params':[true,false,1]\
+    }\
+  ]\
+}"
